@@ -1,0 +1,53 @@
+/* Parents.css */
+
+.parents-container {
+    margin-top: 20px;
+  }
+  
+  .school-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .school-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .school-card h2 {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  .school-card p {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pagination button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .pagination span {
+    margin-right: 10px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
